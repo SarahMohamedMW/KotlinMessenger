@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_dimension">25dp</dimen>
+    <dimen name="radius_registration_image_view">75dp</dimen>
+</resources>

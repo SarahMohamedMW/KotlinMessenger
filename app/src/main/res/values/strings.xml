@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChaCha</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register_label">REGISTER</string>
+    <string name="already_have_account_text">Already have an account?</string>
+    <string name="login_label">LOGIN</string>
+    <string name="back_to_register_label">Back to register</string>
+    <string name="select_photo_label">SELECT PHOTO</string>
+</resources>
